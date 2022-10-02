@@ -1,0 +1,12 @@
+C:\Users\STAR COMPUTER\source\repos\inheritence\inheritence\bin\Debug\inheritence.exe.config
+C:\Users\STAR COMPUTER\source\repos\inheritence\inheritence\bin\Debug\inheritence.exe
+C:\Users\STAR COMPUTER\source\repos\inheritence\inheritence\bin\Debug\inheritence.pdb
+C:\Users\STAR COMPUTER\source\repos\inheritence\inheritence\obj\Debug\inheritence.csproj.AssemblyReference.cache
+C:\Users\STAR COMPUTER\source\repos\inheritence\inheritence\obj\Debug\inheritence.csproj.SuggestedBindingRedirects.cache
+C:\Users\STAR COMPUTER\source\repos\inheritence\inheritence\obj\Debug\inheritence.csproj.CoreCompileInputs.cache
+C:\Users\STAR COMPUTER\source\repos\inheritence\inheritence\obj\Debug\inheritence.exe
+C:\Users\STAR COMPUTER\source\repos\inheritence\inheritence\obj\Debug\inheritence.pdb
+C:\Users\STAR COMPUTER\source\repos\inheritence\inheritence\bin\Debug\inheritence.exe.manifest
+C:\Users\STAR COMPUTER\source\repos\inheritence\inheritence\bin\Debug\inheritence.application
+C:\Users\STAR COMPUTER\source\repos\inheritence\inheritence\obj\Debug\inheritence.exe.manifest
+C:\Users\STAR COMPUTER\source\repos\inheritence\inheritence\obj\Debug\inheritence.application
